@@ -11,7 +11,7 @@
 |
 */
 Route::get('/', function () {
-    return view('gioithieu');
+    return view('index');
 });
 Route::get('/home', function () {
     return view('index');

@@ -7,17 +7,17 @@
     <div class="collapse navbar-collapse my-menu" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Trang Chủ <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="/home">Trang Chủ <span class="sr-only">(current)</span></a>
         </li>
         
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="/gioithieu" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
            Giới Thiệu
          </a>
          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
+          <a class="dropdown-item" href="/gioithieu">Về chúng tôi</a>
+          <a class="dropdown-item" href="/gioithieu">Giá trị c</a>
+          <a class="dropdown-item" href="/gioithieu">Something else here</a>
         </div>
       </li>
       <li class="nav-item dropdown">
