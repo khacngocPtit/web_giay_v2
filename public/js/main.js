@@ -1,9 +1,3 @@
-
-$(".hover").mouseleave(
-  function () {
-    $(this).removeClass("hover");
-  }
-);
 window.a11yTabs = (function tabsComponentIIFE(global, document) {
     'use strict';
 
@@ -233,6 +227,4 @@ window.a11yTabs = (function tabsComponentIIFE(global, document) {
     };
 })(window, document);
 
-
 const tabComponent = a11yTabs.create('[data-tab-component]')
-

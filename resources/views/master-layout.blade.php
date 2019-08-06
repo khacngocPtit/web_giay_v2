@@ -35,11 +35,14 @@
     <link rel="stylesheet" href="{{ asset('css/jquery.exzoom.css') }}">
     <link rel="stylesheet" href="{{ asset('css/chitiet-sanpham.css') }}">
 
+    <link rel="stylesheet" href="{{ asset('css/header-footer.css') }}">
 
 </head>
 <body>
 @include('header')
 @yield('content')
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, facilis, expedita. Veniam alias numquam ducimus iure expedita cum voluptas nemo facilis impedit explicabo, earum ex temporibus error, libero. Quos, vero.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus doloribus nisi, est, tempora, architecto officiis ipsa itaque perspiciatis quam dolorem voluptas, animi numquam quaerat. Consectetur veritatis, quibusdam repellendus dolorem rerum.
 
 @include('footer')
     
