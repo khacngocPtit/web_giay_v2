@@ -1,0 +1,82 @@
+* {
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-decoration: none; }
+
+.banner {
+  background-image: url(../images/banner.png);
+  background-repeat: repeat-x;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+  min-height: 300px !important; }
+
+.main .banner {
+  background-image: url("../images/banner.png");
+  background-position: center; }
+.main .news-page .title-page {
+  padding-top: 20px; }
+.main .news-page .content-right .image-page {
+  box-shadow: 0 0px 5px rgba(0, 0, 0, 0.3), 0 8px 0px rgba(0, 0, 0, 0.22); }
+.main .news-page .content-right .cdong {
+  width: 100%;
+  padding-top: 30px; }
+  .main .news-page .content-right .cdong .title-page-right {
+    padding-top: 20px; }
+    .main .news-page .content-right .cdong .title-page-right .link-page {
+      text-decoration: none;
+      font-size: 24px; }
+    .main .news-page .content-right .cdong .title-page-right .text-page {
+      font-size: 14px; }
+.main .news-page .content-left .title-left-one {
+  text-align: left;
+  margin-bottom: 30px; }
+  .main .news-page .content-left .title-left-one h3 {
+    font-size: 16px;
+    font-weight: 700; }
+  .main .news-page .content-left .title-left-one .content-one {
+    display: flex;
+    padding-top: 15px; }
+    .main .news-page .content-left .title-left-one .content-one .img-one {
+      padding: 0; }
+    .main .news-page .content-left .title-left-one .content-one .text-one {
+      padding: 0; }
+      .main .news-page .content-left .title-left-one .content-one .text-one .text-news {
+        text-decoration: none;
+        color: black;
+        font-size: 13px; }
+.main .news-page .content-left .title-left-two {
+  text-align: left; }
+  .main .news-page .content-left .title-left-two h3 {
+    font-size: 16px;
+    font-weight: 700; }
+  .main .news-page .content-left .title-left-two .content-two {
+    display: flex;
+    padding-top: 15px; }
+    .main .news-page .content-left .title-left-two .content-two .img-two {
+      padding: 0; }
+    .main .news-page .content-left .title-left-two .content-two .text-two {
+      padding: 0; }
+      .main .news-page .content-left .title-left-two .content-two .text-two .text-news {
+        text-decoration: none;
+        color: black;
+        font-size: 13px; }
+
+.pagition {
+  padding-top: 20px; }
+  .pagition .page-item {
+    padding: 0 3px !important; }
+    .pagition .page-item .page-link {
+      color: black;
+      font-size: 14px;
+      background-color: white;
+      color: black;
+      border-radius: 0 !important; }
+      .pagition .page-item .page-link:hover, .pagition .page-item .page-link:focus {
+        border: 1px solid black;
+        background-color: blue;
+        transition-duration: 0,4s;
+        color: white; }
+
+/*# sourceMappingURL=congdong.css.map */
