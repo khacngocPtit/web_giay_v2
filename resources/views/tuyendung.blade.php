@@ -2,7 +2,7 @@
 @section('content')
 	<div id="tuyendung">
 		<div class="banner">
-			<a href=""><img src="images/tuyen-dung-WEB-1.png" alt="" style="height: 200px; width: 100%"></a>
+			<a href=""><img src="image/tuyen-dung-WEB-1.png" alt="" style="height: 200px; width: 100%"></a>
 		</div>
 		<div class="container">	
 			<div class="row">

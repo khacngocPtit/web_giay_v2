@@ -9,8 +9,8 @@
 			    			<!-- Images -->
 			    			<div class="exzoom_img_box">
 			    				<ul class='exzoom_img_ul'>
-			    					<li><img src="{{ asset('images/sp-1.jpg') }}"/></li>
-			    					<li><img src="{{ asset('images/sp-2.jpeg') }}"/></li>
+			    					<li><img src="{{ asset('image/sp-1.jpg') }}"/></li>
+			    					<li><img src="{{ asset('image/sp-2.jpeg') }}"/></li>
 			    					<li><img src="http://dongtienpaper.com/userfiles/2018/12/thumb/giay-kqm-8806.jpg" alt=""></li>
 			    					<li><img src="http://dongtienpaper.com/userfiles/2018/12/thumb/giay-medium-7112.jpg" alt=""></li>
 			    					<li><img src="http://dongtienpaper.com/userfiles/2018/12/thumb/giay-bao-goi-6676.jpg" alt=""></li>

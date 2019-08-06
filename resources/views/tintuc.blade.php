@@ -111,7 +111,7 @@
                         <h3 class="title-vd">TIN TUYỂN DỤNG</h3>
                          <div class="sb-line"></div>                              
                          <div class="card">
-                             <a href="" title=""> <img class="card-img-top" src="images/tin-tuyen-dung.jpg" alt="Card image cap"></a> 
+                             <a href="" title=""> <img class="card-img-top" src="image/tin-tuyen-dung.jpg" alt="Card image cap"></a> 
                               <div class="card-body">
                                 <h5 class="card-title"><a href="" title="">Card title</a></h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -124,7 +124,7 @@
                         <h3 class="title-vd">BÁO CHÍ NÓI VỀ CHÚNG TÔI</h3>
                          <div class="sb-line"></div>                              
                          <div class="card">
-                             <a href="" title=""> <img class="card-img-top" src="images/baochi.jpg" alt="Card image cap"></a> 
+                             <a href="" title=""> <img class="card-img-top" src="image/baochi.jpg" alt="Card image cap"></a> 
                               <div class="card-body">
                                 <h5 class="card-title"><a href="" title="">Card title</a></h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>

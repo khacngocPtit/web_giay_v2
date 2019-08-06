@@ -30,7 +30,7 @@
               <h2>Home</h2>
               <p>
                 <i class="fa fa-home"></i>    <a href="#"> Home</a><br>
-                <i class="fa fa-user-o"></i>    <a href="#"> About Us</a><br>
+                <i class="fa fa-user"></i>    <a href="#"> About Us</a><br>
                 <i class="fa fa-map-marker"></i>    <a href="#"> Contact Us</a><br>
                 <i class="fa fa-briefcase"></i>    <a href="#"> Services</a><br>
                 <i class="fa fa-question-circle"></i>    <a href="#"> Term & Conditions</a><br><br>
@@ -44,7 +44,7 @@
               <h2>Liên Hệ</h2>
               <p style="font-size: 90%" >
                
-                <i class="fa fa-phone"></i>   <b>Điện Thoại</b> <a href="tel:0913.361.629"> (84-225) 397.9952   </a><br> <a href="tel:Fax: (84-225) 397.9951" title=""><b>Fax:</b> (84-225) 397.9951</a><br>
+                <i class="fa fa-phone-alt"></i>   <b>Điện Thoại</b> <a href="tel:0913.361.629"> (84-225) 397.9952   </a><br> <a href="tel:Fax: (84-225) 397.9951" title=""><b>Fax:</b> (84-225) 397.9951</a><br>
                 <i class="fa fa-envelope"></i>   <a href="hhppaper@gmail.com"> hhppaper@gmail.com</a><br>
                 <i class="fa fa-map-marker"></i>  <a href=""><b>Địa chỉ trụ sở chính:</b>   Số 194 đường Kiều Hạ, Phường Đông Hải 2, Quận Hải An, Thành phố Hải Phòng.</a><br>
                 <i class="fa fa-map-marker"></i>  <a href=""><b>Văn Phòng Đại Diện:</b>   Số 29 Ngõ 53 Nguyễn Khoái, Bạch Đằng, Hai Bà Trưng, Hà Nội</a> <br>

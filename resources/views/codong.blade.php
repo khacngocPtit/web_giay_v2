@@ -106,7 +106,7 @@
 				<div class="row">
 					<div class="content-one">
 				<div class="col-md-6 col-xs-12 img-one">
-					<img src="images/anh2.jpg" class="img-fluid" alt="">
+					<img src="image/anh2.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="col-md-6 col-xs-12 text-one">
 				<a href="#" class="text-news">
@@ -116,7 +116,7 @@
 				</div>
 					<div class="content-one">
 				<div class="col-md-6 col-xs-12 img-one">
-					<img src="images/anh2.jpg" class="img-fluid" alt="">
+					<img src="image/anh2.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="col-md-6 col-xs-12 text-one">
 				<a href="#" class="text-news">
@@ -125,7 +125,7 @@
 				</div>
 				</div><div class="content-one">
 				<div class="col-md-6 col-xs-12 img-one">
-					<img src="images/anh2.jpg" class="img-fluid" alt="">
+					<img src="image/anh2.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="col-md-6 col-xs-12 text-one">
 				<a href="#" class="text-news">
@@ -142,7 +142,7 @@
 				<h3>Tin Ngành</h3>
 				<div class="content-two">
 				<div class="col-md-6 col-xs-12 img-two">
-					<img src="images/tintuc2.jpg" class="img-fluid" alt="">
+					<img src="image/tintuc2.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="col-md-6 col-xs-12 text-two">
 				<a href="#" class="text-news">
@@ -153,7 +153,7 @@
 				</div>
 				<div class="content-two">
 				<div class="col-md-6 col-xs-12 img-two">
-					<img src="images/tintuc2.jpg" class="img-fluid" alt="">
+					<img src="image/tintuc2.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="col-md-6 col-xs-12 text-two">
 				<a href="#" class="text-news">
@@ -164,7 +164,7 @@
 				</div>
 				<div class="content-two">
 				<div class="col-md-6 col-xs-12 img-two">
-					<img src="images/tintuc2.jpg" class="img-fluid" alt="">
+					<img src="image/tintuc2.jpg" class="img-fluid" alt="">
 				</div>
 				<div class="col-md-6 col-xs-12 text-two">
 				<a href="#" class="text-news">
