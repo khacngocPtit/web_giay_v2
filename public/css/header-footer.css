@@ -1,0 +1,288 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/*-------Setup basics CSS---------*/
+
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+html {
+    /*font-size: 62.5%;*/
+    font-size: 16px;
+    /*overflow-x: hidden;*/
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 1;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+button {
+    cursor: pointer;
+}
+
+input,
+textarea,
+button {
+    outline: none;
+    box-shadow: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+a {text-decoration: none !important}
+h2{
+  text-align:center;
+  padding: 20px;
+}
+/*scc cua menu*/
+
+/* Slider Tập Đoàn Hợp Tác Cùng Chúng Tôi */
+
+.slick-slide {
+  margin: 0px 20px;
+}
+
+.slick-slide img {
+  width: 100%;
+}
+
+.slick-slider
+{
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+  position: relative;
+  display: block;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+.slick-list:focus
+{
+  outline: none;
+}
+.slick-list.dragging
+{
+  cursor: pointer;
+  cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+  position: relative;
+  top: 0;
+  left: 0;
+  display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+  display: table;
+  content: '';
+}
+.slick-track:after
+{
+  clear: both;
+}
+.slick-loading .slick-track
+{
+  visibility: hidden;
+}
+
+.slick-slide
+{
+  display: none;
+  float: left;
+  height: 100%;
+  min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+  float: right;
+}
+.slick-slide img
+{
+  display: block;
+}
+.slick-slide.slick-loading img
+{
+  display: none;
+}
+.slick-slide.dragging img
+{
+  pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+  display: block;
+}
+.slick-loading .slick-slide
+{
+  visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+  display: block;
+  height: auto;
+  border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+  display: none;
+}
+
+
+
+
+
+
+
+/* footer */
+.footer1{
+ background-color: #34264a78;
+ color: white;
+
+}
+.footer1 h2{
+  margin: 5px;
+  padding: 8px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  
+}
+.footer1 a{
+  color: white;
+}
+.footer1 a:hover{
+  color: ;
+}
+
+.footer1 p{
+  color: #3c4b5feb;
+  margin: 5px;
+  padding-top: 2px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  
+}
+.footer1 h2{margin: 5px;
+  padding: 5px;
+  border-bottom: 1px solid white;
+  
+  
+}
+.footer2{
+
+  background-color: #e6e6e6;
+  color: black;
+  
+}
+.footer2 p{
+  margin: 8px;
+  padding: 8px;
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+
+}
+.myframegmap{
+
+  border: 3px solid #f6f5f0;
+  border-radius: 8px;
+  height: 130px;
+  width: 80%;
+  box-shadow: 0px 0px 3px 3px #e7e4dc;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+
+}
