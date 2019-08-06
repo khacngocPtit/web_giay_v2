@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Sản phẩm</title>
+	<title>Trang Chủ</title>
     <base href="{{asset('')}}">
 	<!-- boostrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -22,9 +22,9 @@
     <link rel="stylesheet" href="{{ asset('css/header-footer.css') }}">
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/codong.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/cogdong.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/cogdong.css.map') }}">
-    <link rel="stylesheet" href="{{ asset('css/cogdong.scss') }}">
+    <link rel="stylesheet" href="{{ asset('css/codong.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/codong.css.map') }}">
+    <link rel="stylesheet" href="{{ asset('css/codong.scss') }}">
     <link rel="stylesheet" href="{{ asset('css/danhsachsanpham.css') }}">
     <link rel="stylesheet" href="{{ asset('css/danhsachsanpham.css.map') }}">
     <link rel="stylesheet" href="{{ asset('css/danhsachsanpham.scss') }}">
@@ -34,15 +34,13 @@
     <link rel="stylesheet" href="{{ asset('css/tuyendung.css') }}">
     <link rel="stylesheet" href="{{ asset('css/jquery.exzoom.css') }}">
     <link rel="stylesheet" href="{{ asset('css/chitiet-sanpham.css') }}">
-
+    <link rel="stylesheet" href="{{ asset('css/index.css') }}">
     <link rel="stylesheet" href="{{ asset('css/header-footer.css') }}">
 
 </head>
 <body>
 @include('header')
 @yield('content')
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, facilis, expedita. Veniam alias numquam ducimus iure expedita cum voluptas nemo facilis impedit explicabo, earum ex temporibus error, libero. Quos, vero.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus doloribus nisi, est, tempora, architecto officiis ipsa itaque perspiciatis quam dolorem voluptas, animi numquam quaerat. Consectetur veritatis, quibusdam repellendus dolorem rerum.
 
 @include('footer')
     
@@ -79,6 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, facilis, 
 <script src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
 <script src="{{ asset('js/footer-header.js') }}"></script>
 <script src="{{ asset('is/jquery-1.12.4.min.js') }}"></script>
+<script src="{{ asset('js/index.js') }}"></script>
 <script src="{{ asset('js/main1.js') }}"></script>
 <script src="{{ asset('js/main.js') }}"></script>
 <script src="{{ asset('js/owl.carousel.js') }}"></script>

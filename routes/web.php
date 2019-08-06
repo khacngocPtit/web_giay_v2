@@ -10,12 +10,15 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
 Route::get('/', function () {
-    return view('master-layout');
+    return view('index');
 });
-
-
+Route::get('/home', function () {
+    return view('index');
+});
+Route::get('/gioithieu', function () {
+    return view('gioithieu');
+});
 Route::get('/codong', function () {
     return view('codong');
 });
@@ -24,9 +27,7 @@ Route::get('/danhsachsanpham', function () {
     return view('danhsachsanpham');
 });
 
-Route::get('/gioithieu', function () {
-    return view('gioithieu');
-});
+
 
 Route::get('/tintuc-noibo', function () {
     return view('tintuc-noibo');
