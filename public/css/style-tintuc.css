@@ -1,0 +1,81 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ol.breadcrumb{
+	background: none;
+}
+ol.breadcrumb li{
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 1rem;
+	font-style: italic;
+}
+ol.breadcrumb li.active{
+	color: #000000d1;
+}
+ol.breadcrumb li a{
+	text-decoration: none;
+}
+.card{
+	margin-bottom: 2rem;
+	transition: 3s;
+}
+.card:hover{
+	transform: scale(1.1);
+
+}
+.card img:hover{
+	opacity: 0.8;
+}
+h5.card-title a{
+	text-decoration: none;
+}
+.vid-hl{
+	margin-bottom: 1.5rem;
+}
+.slidebar-col .vid-hl h3.title-vd{
+	font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #036894;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+.sb-line{
+	border: 2px solid #036894;
+    width: 30%;
+    margin-bottom: 20px
+}
+.box-tuyendung h3.title-vd{
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #036894;
+	margin-bottom: 25px;
+	margin-top: 3rem;
+}
+.box-tuyendung .card:hover{
+	transform: scale(1);
+}
+ a.view-details:hover{
+	background: none;
+	color: #036894;
+	border:1px solid #036894;
+}
+a.view-details{
+	background: #036894;
+	border: #036894;
+	border-radius: 0;
+}
+.box-baochi h3.title-vd{
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #036894;
+	margin-bottom: 25px;
+	margin-top: 3rem;
+}
+.box-baochi .card:hover{
+	transform: scale(1);
+}
