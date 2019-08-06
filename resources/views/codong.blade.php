@@ -28,7 +28,7 @@
 			<div class="row">
 				
 				<div class="image-page col-md-6 col-xs-12">
-					<img src="images/codong-2019.jpg" class="img-fluid" alt="">
+					<img src="{{ asset('image/codong-2019.jpg') }}" class="img-fluid" alt="">
 			</div>
 				<div class="title-page-right col-md-6 col-xs-12">
 					<a href="#" class="link-page">
@@ -47,7 +47,7 @@
 			<div class="row">
 				
 				<div class="image-page col-md-6 col-xs-12">
-					<img src="images/codong-2019.jpg" class="img-fluid" alt="">
+					<img src="{{ asset('image/codong-2019.jpg') }}" class="img-fluid" alt="">
 			</div>
 				<div class="title-page-right col-md-6 col-xs-12">
 					<a href="#" class="link-page">
@@ -65,7 +65,7 @@
 			<div class="row">
 				
 				<div class="image-page col-md-6 col-xs-12">
-					<img src="images/codong-2019.jpg" class="img-fluid" alt="">
+					<img src="{{ asset('image/codong-2019.jpg') }}" class="img-fluid" alt="">
 			</div>
 				<div class="title-page-right col-md-6 col-xs-12">
 					<a href="#" class="link-page">
@@ -84,7 +84,7 @@
 			<div class="row">
 				
 				<div class="image-page col-md-6 col-xs-12">
-					<img src="images/codong-2019.jpg" class="img-fluid" alt="">
+					<img src="{{ asset('image/codong-2019.jpg') }}" class="img-fluid" alt="">
 			</div>
 				<div class="title-page-right col-md-6 col-xs-12">
 					<a href="#" class="link-page">

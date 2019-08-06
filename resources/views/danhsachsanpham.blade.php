@@ -30,7 +30,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                             <div class="latest-posts-summary">
@@ -43,7 +43,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                             <div class="latest-posts-summary">
@@ -56,7 +56,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                             <div class="latest-posts-summary">
@@ -69,7 +69,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                            <div class="latest-posts-summary">
@@ -90,7 +90,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                             <div class="latest-posts-summary">
@@ -103,7 +103,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                             <div class="latest-posts-summary">
@@ -116,7 +116,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                             <div class="latest-posts-summary">
@@ -129,7 +129,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                            <div class="latest-posts-summary">
@@ -150,7 +150,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                             <div class="latest-posts-summary">
@@ -163,7 +163,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                             <div class="latest-posts-summary">
@@ -186,7 +186,7 @@
                         <div class="latest-posts-wrapper">
                         <div class="product-item ">
                             <div class="thumnail">
-                                <a href="#"><img src="img/giay-bao-goi-6676.jpg" alt="product image" class="img-fluid"></a>
+                                <a href="#"><img src="{{ asset('image/giay-bao-goi-6676.jpg') }}" alt="product image" class="img-fluid"></a>
                             </div>
                             <h3 class="product-title"><a href="#">SẢN PHẨM</a></h3>
                             <div class="latest-posts-summary">

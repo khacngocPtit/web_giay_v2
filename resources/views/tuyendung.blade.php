@@ -7,7 +7,7 @@
 		<div class="container">	
 			<div class="row">
 				<div class="col-md-9 text-content">
-					<img class="img-1" src="images/tintuc.png" alt="">
+					<img class="img-1" src="{{ asset('image/tintuc.png') }}" alt="">
 					<div class="text">
 						<a title="Tuyen nhan vien hop dong thoi vu" href="">Trẻ trung, năng động, sáng tạo và đầy nhiệt huyết là những điều chúng tôi có thể tự hào về mình. Khởi nguồn từ một ước mơ, tiếp sức bởi mong muốn biến ước mơ thành hiện thực, In Hồng Đăng của chúng tôi đã hình thành như thế.</a>
 					</div>
@@ -16,7 +16,7 @@
 					</div>
 					<div class="space"></div>
 
-					<img class="img-1" src="images/tintuc.png" alt="">
+					<img class="img-1" src="{{ asset('image/tintuc.png') }}" alt="">
 					<div class="text">
 						<a title="Tuyen nhan vien hop dong thoi vu" href="">Trẻ trung, năng động, sáng tạo và đầy nhiệt huyết là những điều chúng tôi có thể tự hào về mình. Khởi nguồn từ một ước mơ, tiếp sức bởi mong muốn biến ước mơ thành hiện thực, In Hồng Đăng của chúng tôi đã hình thành như thế.</a>
 					</div>
@@ -25,7 +25,7 @@
 					</div>
 					<div class="space"></div>
 
-					<img class="img-1" src="images/tintuc.png" alt="">
+					<img class="img-1" src="{{ asset('image/tintuc.png') }}" alt="">
 					<div class="text">
 						<a title="Tuyen nhan vien hop dong thoi vu" href="">Trẻ trung, năng động, sáng tạo và đầy nhiệt huyết là những điều chúng tôi có thể tự hào về mình. Khởi nguồn từ một ước mơ, tiếp sức bởi mong muốn biến ước mơ thành hiện thực, In Hồng Đăng của chúng tôi đã hình thành như thế.</a>
 					</div>
@@ -34,7 +34,7 @@
 					</div>
 					<div class="space"></div>
 
-					<img class="img-1" src="images/tintuc.png" alt="">
+					<img class="img-1" src="{{ asset('image/tintuc.png') }}" alt="">
 					<div class="text">
 						<a title="Tuyen nhan vien hop dong thoi vu" href="">Trẻ trung, năng động, sáng tạo và đầy nhiệt huyết là những điều chúng tôi có thể tự hào về mình. Khởi nguồn từ một ước mơ, tiếp sức bởi mong muốn biến ước mơ thành hiện thực, In Hồng Đăng của chúng tôi đã hình thành như thế.</a>
 					</div>
@@ -43,7 +43,7 @@
 					</div>
 					<div class="space"></div>
 
-					<img class="img-1" src="images/tintuc.png" alt="">
+					<img class="img-1" src="{{ asset('image/tintuc.png') }}" alt="">
 					<div class="text">
 						<a title="Tuyen nhan vien hop dong thoi vu" href="">Trẻ trung, năng động, sáng tạo và đầy nhiệt huyết là những điều chúng tôi có thể tự hào về mình. Khởi nguồn từ một ước mơ, tiếp sức bởi mong muốn biến ước mơ thành hiện thực, In Hồng Đăng của chúng tôi đã hình thành như thế.</a>
 					</div>
@@ -59,7 +59,7 @@
 					</div>
 					<div class="row news">
 						<div class="col-md-4">
-							<img class="img-right" src="images/tintuc.png" alt="">
+							<img class="img-right" src="{{ asset('image/tintuc.png') }}" alt="">
 						</div>
 						<div class="col-md-8 text-post">
 							<a title="Tuyen nhan vien hop dong thoi vu" href="">Trẻ trung, năng động, sáng tạo và đầy nhiệt huyết là những điều chúng tôi có thể tự hào về mình. Khởi nguồn từ một ước mơ, tiếp sức bởi mong muốn biến ước mơ thành hiện thực, In Hồng Đăng của chúng tôi đã hình thành như thế.</a>
@@ -68,7 +68,7 @@
 
 					<div class="row news">
 						<div class="col-md-4">
-							<img class="img-right" src="images/tintuc.png" alt="">
+							<img class="img-right" src="{{ asset('image/tintuc.png') }}" alt="">
 						</div>
 						<div class="col-md-8 text-post">
 							<a title="Tuyen nhan vien hop dong thoi vu" href="">Trẻ trung, năng động, sáng tạo và đầy nhiệt huyết là những điều chúng tôi có thể tự hào về mình. Khởi nguồn từ một ước mơ, tiếp sức bởi mong muốn biến ước mơ thành hiện thực, In Hồng Đăng của chúng tôi đã hình thành như thế.</a>
@@ -77,7 +77,7 @@
 
 					<div class="row news">
 						<div class="col-md-4">
-							<img class="img-right" src="images/tintuc.png" alt="">
+							<img class="img-right" src="{{ asset('image/tintuc.png') }}" alt="">
 						</div>
 						<div class="col-md-8 text-post">
 							<a title="Tuyen nhan vien hop dong thoi vu" href="">Trẻ trung, năng động, sáng tạo và đầy nhiệt huyết là những điều chúng tôi có thể tự hào về mình. Khởi nguồn từ một ước mơ, tiếp sức bởi mong muốn biến ước mơ thành hiện thực, In Hồng Đăng của chúng tôi đã hình thành như thế.</a>
@@ -86,7 +86,7 @@
 
 					<div class="row news">
 						<div class="col-md-4">
-							<img class="img-right" src="images/tintuc.png" alt="">
+							<img class="img-right" src="{{ asset('image/tintuc.png') }}" alt="">
 						</div>
 						<div class="col-md-8 text-post">
 							<a title="Tuyen nhan vien hop dong thoi vu" href="">Trẻ trung, năng động, sáng tạo và đầy nhiệt huyết là những điều chúng tôi có thể tự hào về mình. Khởi nguồn từ một ước mơ, tiếp sức bởi mong muốn biến ước mơ thành hiện thực, In Hồng Đăng của chúng tôi đã hình thành như thế.</a>
